@@ -12,7 +12,7 @@
 
 namespace Assignment_2._4._1
 {
-    class Program
+    public class Program
     {
         /// <summary> Prompts the user for input and ensures a non-empty string is returned. This is the non-generic overload.</summary>
         /// <param name="prompt">The message to display to the user.</param>
